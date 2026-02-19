@@ -1,3 +1,7 @@
 img {
     max-width: 100%;
 }
+
+.next, .prev {
+    /* width: 4rem; */
+}
